@@ -1,5 +1,5 @@
 Automatic Build of Hugo website using hugo-resume theme with Github Actions Pipeline and Deploy to Github pages.
-
+1
 To create your own free website at "{yourgituser}.github.io":
 1. Clone this repo
 2. Rename the repository to {yourgituser}.github.io
