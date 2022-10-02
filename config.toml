@@ -1,4 +1,4 @@
-title = "Georgi Himchev"
+title = "Vilio e Bastun"
 baseURL = "https://${{ github.event.repository.name }}/"
 theme = "hugo-resume"
 languageCode = "en-us"
@@ -11,8 +11,8 @@ enableGitInfo = false
 address = "Sofia Bulgaria"
 email = "email@domain.com"
 favicon = "/favicon.ico"
-firstName = "Georgi"
-lastName = "Himchev"
+firstName = "bastun"
+lastName = "vilio"
 phone = "12345"
 profileImage = "img/TechChat.png"
 showEducation = true
